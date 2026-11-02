@@ -10,7 +10,7 @@ RetroMac Snow Leopard is distributed as a signed and notarized macOS app. Only t
 ## What the app does on your Mac
 
 - It asks for no permissions (no Accessibility, no Screen Recording, no Automation).
-- It makes no network requests of its own; it has no update check, no analytics and no account.
+- It has no update check, no analytics and no account.
 - It changes two things you can undo by hand at any time: the desktop picture and the auto-hide of the macOS Dock. Quitting puts both back.
 
 ## Reporting a vulnerability
